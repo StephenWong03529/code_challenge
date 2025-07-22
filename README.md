@@ -4,14 +4,14 @@ my code practices from leetcode
 
 Linked List 11/11
 --------------------------------------------
-Linked List Cycle Easy
-Add Two Numbers Medium
-Merge Two Sorted Lists Easy
-Copy List with Random Pointer Medium
-Reverse Linked List II Medium
-Reverse Nodes in k-Group Hard
-Remove Nth Node From End of List Medium
-Remove Duplicates from Sorted List II Medium
-Rotate List Medium
-Partition List Medium
-LRU Cache Medium
+1. Linked List Cycle Easy
+2. Add Two Numbers Medium
+3. Merge Two Sorted Lists Easy
+4. Copy List with Random Pointer Medium
+5. Reverse Linked List II Medium
+6. Reverse Nodes in k-Group Hard
+7. Remove Nth Node From End of List Medium
+8. Remove Duplicates from Sorted List II Medium
+9. Rotate List Medium
+10. Partition List Medium
+11. LRU Cache Medium
